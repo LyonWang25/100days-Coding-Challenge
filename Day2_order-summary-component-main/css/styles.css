@@ -1,0 +1,134 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Red Hat Display", sans-serif;
+  background-color: hsl(225, 100%, 94%);
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.box {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item {
+  background-color: white;
+  max-width: 360px;
+  box-shadow: 0 0px 50px 0 rgba(199, 210, 242, 1);
+  border-radius: 20px;
+  text-align: center;
+  padding-bottom: 53px;
+}
+
+.illustration-hero-img {
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+}
+
+.order-title {
+  margin-top: 40px;
+  color: #1f2f56;
+}
+.order-description {
+  width: 100%;
+  line-height: 1.5;
+  color: #7280a7;
+}
+
+.plan-box {
+  width: 90%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  padding: 0 1em;
+  margin: auto;
+  border-radius: 12px;
+  background-color: #e0e8ff5b;
+}
+.plan-box-body {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
+.plan-box-title {
+  font-weight: 900;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 0.9rem;
+}
+
+.plan-box-description {
+  font-weight: 500;
+  color: hsl(224, 23%, 55%);
+  display: block;
+  margin-block-start: 0.5em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 0.9rem;
+}
+
+.change {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #36299b;
+}
+
+.change:hover {
+  color: #786cd8;
+  text-decoration: none;
+}
+.payment-button {
+  font-weight: 700;
+  margin-left: 10%;
+  width: 79%;
+  background-color: #3829e0;
+  border-radius: 10px;
+  height: 50px;
+  margin-top: 35px;
+  box-shadow: 0 15px 15px #d7d3ff;
+  margin-bottom: 31px;
+  display: block;
+  line-height: 50px;
+  text-decoration: none;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.payment-button:hover {
+  background-color: #766cf1;
+}
+
+.cancel-order {
+  font-weight: 700;
+  cursor: pointer;
+  color: hsl(224, 23%, 55%);
+  text-decoration: none;
+  border: none;
+  background: none;
+}
+
+.cancel-order:hover {
+  color: #232c4d;
+}
