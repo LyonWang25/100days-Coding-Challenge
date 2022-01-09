@@ -30,7 +30,9 @@ Users should be able to:
 
 ![Alt text](/screenshot/destop-screenshot.png?raw=true "destop-screenshot")
 ![Alt text](/screenshot/mobile-screenshot.png?raw=true "mobile-screenshot")
+[url=https://postimg.cc/7fLBQtVm][img]https://i.postimg.cc/7fLBQtVm/destop-screenshot.png[/img][/url]
 
+[url=https://postimg.cc/XpD2MK13][img]https://i.postimg.cc/XpD2MK13/mobile-screenshot.png[/img][/url]
 ### Links
 
 ## My process
