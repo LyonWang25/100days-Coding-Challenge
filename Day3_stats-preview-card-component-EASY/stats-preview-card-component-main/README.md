@@ -27,12 +27,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/destop-screenshot.png)
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/mobile-screenshot.png)
 
-![Alt text](/screenshot/destop-screenshot.png?raw=true "destop-screenshot")
-![Alt text](/screenshot/mobile-screenshot.png?raw=true "mobile-screenshot")
-[url=https://postimg.cc/7fLBQtVm][img]https://i.postimg.cc/7fLBQtVm/destop-screenshot.png[/img][/url]
 
-[url=https://postimg.cc/XpD2MK13][img]https://i.postimg.cc/XpD2MK13/mobile-screenshot.png[/img][/url]
 ### Links
 
 ## My process
