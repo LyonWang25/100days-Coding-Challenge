@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/screenshot/destop-screenshot.png?raw=true "destop-screenshot")
-![Alt text](/screenshot/mobile-screenshot.png?raw=true "mobile-screenshot")
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/destop-screenshot.png)
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/mobile-screenshot.png)
 
 ### Links
 

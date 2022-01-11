@@ -1,0 +1,140 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+
+.box {
+  width: auto;
+  height: 100vh;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .box {
+    width: auto;
+    height: auto;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.item {
+  width: 210px;
+  height: 415px;
+  padding: 4%;
+}
+
+@media (max-width: 768px) {
+  .item {
+    width: 300px;
+    padding: 10% 10% 1% 10%;
+  }
+}
+
+.item-sedans {
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 10px 0 0 10px;
+}
+
+@media (max-width: 768px) {
+  .item-sedans {
+    border-radius: 10px 10px 0 0;
+  }
+}
+
+.item-suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+@media (max-width: 768px) {
+  .item-suvs {
+    border-radius: 0;
+  }
+}
+
+.item-luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 10px 10px 0;
+}
+
+@media (max-width: 768px) {
+  .item-luxury {
+    border-radius: 0 0 10px 10px;
+  }
+}
+
+.box img {
+  margin-bottom: 1.5rem;
+}
+.box h1 {
+  color: hsl(0, 0%, 95%);
+  margin: 0;
+  text-transform: uppercase;
+  font-family: Big Shoulders Display;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.box p {
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: Lexend Deca;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.btn {
+  margin-top: 100px;
+  background-color: hsl(0, 0%, 95%);
+  border: none;
+  border-radius: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Lexend Deca;
+  cursor: pointer;
+}
+
+.btn1 {
+  color: hsl(31, 77%, 52%);
+}
+
+.btn1:hover {
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+  border: 2px solid hsl(0, 0%, 95%);
+}
+
+.btn2 {
+  color: hsl(184, 100%, 22%);
+}
+
+.btn2:hover {
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+  border: 2px solid hsl(0, 0%, 95%);
+}
+
+.btn3 {
+  color: hsl(179, 100%, 13%);
+}
+
+.btn3:hover {
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+  border: 2px solid hsl(0, 0%, 95%);
+}
