@@ -28,8 +28,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![ScreenShot]
-![ScreenShot]
+![ScreenShot]https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day4_3-column-preview-card-component/screenshot/desktop.png
+![ScreenShot]https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day4_3-column-preview-card-component/screenshot/mobile.png
 
 ### Links
 
