@@ -27,9 +27,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
 ![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/destop-screenshot.png)
 ![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/mobile-screenshot.png)
+
+<<<<<<< HEAD
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/destop-screenshot.png)
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day3_stats-preview-card-component-EASY/stats-preview-card-component-main/screenshot/mobile-screenshot.png)
+=======
+>>>>>>> 3dc4afc513f5442af11f51fe2ffbe80798f44890
 
 ### Links
 
