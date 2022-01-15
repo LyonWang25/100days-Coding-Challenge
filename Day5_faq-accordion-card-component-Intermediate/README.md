@@ -30,9 +30,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day5_faq-accordion-card-main/screenshot/desktop.png)
-![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day5_faq-accordion-card-main/screenshot/mobile.png)
-
+![ScreenShot]
 
 ### Links
 
