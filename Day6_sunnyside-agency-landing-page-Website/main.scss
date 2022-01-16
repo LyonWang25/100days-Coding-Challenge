@@ -1,0 +1,196 @@
+$btn-border-radius-lg: 10rem;
+
+$card-border: none;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.banner-image {
+  background-image: url(/Day6_sunnyside-agency-landing-page-Website/images/desktop/image-header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: Fraunces;
+  font-weight: 900;
+}
+
+@media (max-width: 576px) {
+  .navbar-brand {
+    margin-left: 1rem;
+  }
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: Barlow;
+  font-weight: 600;
+}
+
+.btn {
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-family: Fraunces;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background-color: #6eceff;
+  border-color: #6eceff;
+  color: white;
+}
+
+.text {
+  font-size: 2rem;
+  font-family: Fraunces;
+  font-weight: 900;
+  letter-spacing: 10px;
+}
+
+.arrow-icon {
+  margin-top: 100px;
+}
+
+.middle-section-text-box {
+  line-height: 2rem;
+  padding: 15%;
+}
+
+@media (max-width: 576px) {
+  .middle-section-text-box {
+    text-align: center;
+  }
+}
+
+.middle-section-text-box h1 {
+  font-family: Fraunces;
+  font-weight: 900;
+}
+
+.middle-section-text-box p {
+  margin: 1.5rem 0;
+  font-family: Barlow;
+  font-weight: 600;
+  color: hsl(232, 10%, 55%);
+}
+
+.middle-section-text-box a {
+  text-transform: uppercase;
+  font-family: Fraunces;
+  font-weight: 900;
+  color: hsl(212, 27%, 19%);
+}
+
+.middle-section-text-box a {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: hsl(51, 96%, 78%);
+  text-decoration-thickness: 5px;
+  text-underline-offset: -2px;
+}
+
+.middle-section-text-box a:hover {
+  text-decoration-color: hsl(51, 100%, 49%);
+}
+
+.middle-section-text-box-2 a {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: hsl(7, 100%, 82%);
+  text-decoration-thickness: 5px;
+  text-underline-offset: -2px;
+}
+.middle-section-text-box-2 a:hover {
+  text-decoration-color: hsl(7, 99%, 70%);
+}
+
+.learn-more-box {
+  width: 120%;
+}
+
+.cherry-box-text,
+.orange-box-text {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.cherry-box-text h3 {
+  font-family: Fraunces;
+  font-weight: 900;
+  color: hsl(167, 40%, 24%);
+}
+.cherry-box-text p {
+  font-family: Barlow;
+  font-weight: 600;
+  color: hsl(167, 40%, 24%);
+}
+.orange-box-text h3 {
+  font-family: Fraunces;
+  font-weight: 900;
+  color: hsl(198, 62%, 26%);
+}
+.orange-box-text p {
+  font-family: Barlow;
+  font-weight: 600;
+  color: hsl(198, 62%, 26%);
+}
+.testimonials-section {
+  margin: 10% 0 10% 0;
+}
+
+.testimonials {
+  font-family: Fraunces;
+  font-weight: 900;
+  color: hsl(210, 4%, 67%);
+  letter-spacing: 5px;
+}
+
+.card-body h5 {
+  font-family: Fraunces;
+  font-weight: 900;
+}
+
+.card-body p {
+  font-family: Barlow;
+  font-weight: 600;
+  color: hsl(213, 9%, 39%);
+}
+
+.card-body h6 {
+  font-family: Barlow;
+  font-weight: 600;
+  font-size: 0.5rem;
+  color: hsl(210, 4%, 67%);
+}
+
+.footer-section {
+  background-color: #97d9cb;
+}
+
+.pages {
+  font-family: Barlow;
+  font-weight: 600;
+  color: hsl(167, 40%, 24%);
+  text-decoration: none;
+}
+
+.pages:hover {
+  color: white;
+}
+
+.social-icon {
+  margin-top: 7%;
+}
+
+.social-icon svg:hover path {
+  fill: white;
+}
