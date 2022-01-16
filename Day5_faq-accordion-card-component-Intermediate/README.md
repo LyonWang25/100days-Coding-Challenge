@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-![ScreenShot]
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day5_faq-accordion-card-component-Intermediate/screenshot/desktop.png)
+![ScreenShot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day5_faq-accordion-card-component-Intermediate/screenshot/mobile.png)
 
 ### Links
 
