@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot]()
-![screenshot]()
+![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day6_sunnyside-agency-landing-page-Website/screenshot/desktop.png)
+![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day6_sunnyside-agency-landing-page-Website/screenshot/mobile.png)
 
 ### Links
 
