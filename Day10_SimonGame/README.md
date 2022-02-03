@@ -24,13 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day6_sunnyside-agency-landing-page-Website/screenshot/desktop.png)
-![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day6_sunnyside-agency-landing-page-Website/screenshot/mobile.png)
+![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day10_SimonGame/screenshot/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day6_sunnyside-agency-landing-page-Website)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day10_SimonGame)
 
 ## My process
 
