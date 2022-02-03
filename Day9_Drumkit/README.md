@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day6_sunnyside-agency-landing-page-Website)
+- Solution URL: [Add solution URL here](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day9_Drumkit)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
