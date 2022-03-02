@@ -4,8 +4,8 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,15 +22,17 @@ Users should be able to:
 
 - click the icon and make a sound
 
+### Links
+
+- Solution URL: [Click](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day7_Natours)
+- Live Site URL: [See live site](https://frosty-carson-262d99.netlify.app/)
+
 ### Screenshot
 
 ![screenshot](https://github.com/LyonWang25/100days-Coding-Challenge/blob/main/Day7_Natours/screenshot/Natours_desktop.png
 )
 
-### Links
 
-- Solution URL: [Click](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day7_Natours)
-- Live Site URL: [See live site](https://frosty-carson-262d99.netlify.app/)
 
 ## My process
 
