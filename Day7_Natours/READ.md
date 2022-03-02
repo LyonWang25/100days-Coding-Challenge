@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day7_Natours)
-- Live Site URL: [Add live site URL here](https://frosty-carson-262d99.netlify.app/)
+- Solution URL: [Click](https://github.com/LyonWang25/100days-Coding-Challenge/tree/main/Day7_Natours)
+- Live Site URL: [See live site](https://frosty-carson-262d99.netlify.app/)
 
 ## My process
 
